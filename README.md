@@ -1,2 +1,1 @@
-# web-quick-start
- By Valor.
+# For beginners, by Valor.
