@@ -1,0 +1,7 @@
+.btn {
+    color: #1c5169;
+    background-color: #86dbff;
+    -webkit-transition: .3s all ease-in;
+    transition: .3s all ease-in;
+    border: 2px solid transparent;
+}
